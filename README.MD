@@ -1,1 +1,1 @@
-Hi!
+Personal Implementation of Trust Region Policy Optimization (TRPO) for OpenAI gym environments. Implementation will work for given observation space environments, non directly accessible environments, such as Atari. 
